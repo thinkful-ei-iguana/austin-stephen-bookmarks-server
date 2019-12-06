@@ -1,0 +1,6 @@
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"A valid rating is required","level":"error"}
+{"message":"A valid rating is required","level":"error"}
+{"message":"Bookmark with id 17d1674c-abf5-448e-8f09-fed8a71a284b created","level":"info"}
+{"message":"Bookmark deleted.","level":"info"}
