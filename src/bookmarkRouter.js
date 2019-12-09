@@ -74,7 +74,7 @@ bookmarkRouter
   .route('/:id')
   .get((req, res) => {
     const { id } = req.params;
-    const bookmark = bookmark.find(bm => bm.id == id);
+    const bookmark = bookmarks.find(bm => bm.id == id);
 
     if(!bookmark) {
       logger.error('Bookmark not found.');
